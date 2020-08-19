@@ -23,13 +23,7 @@
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="APIUnitTest_InetNtop.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="APIUnitTest_DealSpaceInStr.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="APIUnitTest_gethostbyname.cpp">
+    <ClCompile Include="SocketUDPClient.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

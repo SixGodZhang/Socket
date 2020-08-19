@@ -4,7 +4,7 @@
 
 using namespace std;
 
-#define EXCUTE_CPP
+//#define EXCUTE_CPP
 
 #ifdef EXCUTE_CPP
 int main()

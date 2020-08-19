@@ -8,6 +8,9 @@ SocketClient: Socket客户端实现, 可以发送字符串消息
 SocketServer: Socket服务端实现, 可以接受字符串消息, 并回发给客户端  
 SocketFileClient: Socket实现传输文件的客户端实现  
 SocketFileServer: Socket实现传输文件的服务端实现  
+SocketUDPClient: Socket客户端使用UDP作为传输协议  
+SocketUDPServer: Socket服务端使用UDP作为传输协议  
+SocketUnitTest: 一些单元测试
 
 ## 操作说明
 1. 重新生成解决方案，在项目目录下有一个x64的目录  
@@ -21,3 +24,4 @@ SocketFileServer: Socket实现传输文件的服务端实现
 
 ## 学习资料参考:
 http://c.biancheng.net/cpp/html/3046.html  
+
